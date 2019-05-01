@@ -1,6 +1,4 @@
-/* .card{
-    border: none;
-} */
+
 body{
     background-color: black;
     color: white;
@@ -9,6 +7,6 @@ body{
     background-color: white;
     color: black;
 }
-.navbar{
+.navbar-light{
     background-color: white!important;
 }
